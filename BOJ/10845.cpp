@@ -47,5 +47,6 @@ int main() {
 			else
 				cout << Q.back() << '\n';
 		}
+
 	}
 }
