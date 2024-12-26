@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Algorithm\\BOJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3AA486D-D4AA-4619-87DE-28B39FF5BC65}|BOJ.vcxproj|D:\\Algorithm\\BOJ\\10845_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E3AA486D-D4AA-4619-87DE-28B39FF5BC65}|BOJ.vcxproj|solutionrelative:10845_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E3AA486D-D4AA-4619-87DE-28B39FF5BC65}|BOJ.vcxproj|D:\\Algorithm\\BOJ\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3AA486D-D4AA-4619-87DE-28B39FF5BC65}|BOJ.vcxproj|solutionrelative:18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "10845_2.cpp",
-              "DocumentMoniker": "D:\\Algorithm\\BOJ\\10845_2.cpp",
-              "RelativeDocumentMoniker": "10845_2.cpp",
-              "ToolTip": "D:\\Algorithm\\BOJ\\10845_2.cpp",
-              "RelativeToolTip": "10845_2.cpp",
-              "ViewState": "AQIAACwAAAAAAAAAAAAmwDwAAAADAAAA",
+              "Title": "18258.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\BOJ\\18258.cpp",
+              "RelativeDocumentMoniker": "18258.cpp",
+              "ToolTip": "D:\\Algorithm\\BOJ\\18258.cpp",
+              "RelativeToolTip": "18258.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T09:01:24.958Z",
+              "WhenOpened": "2024-12-26T09:19:05.395Z",
               "EditorCaption": ""
             }
           ]
